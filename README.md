@@ -36,4 +36,12 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 3、webpack入门：[webpack入门](https://www.jianshu.com/p/42e11515c10f)
 
-4、webpack老版本结构详解：[webpack老版本结构详解](https://ajimide.gitbooks.io/key-vue-cli-webpack/1.%20Project%20Structure.html)
+4、webpack老版本结构详解：[webpack老版本结构详解1](https://ajimide.gitbooks.io/key-vue-cli-webpack/1.%20Project%20Structure.html)
+
+5、webpack老版本结构详解：[webpack老版本结构详解2](https://athena0304.gitbooks.io/vue-template-webpack-cn/content/)
+
+6、webpack老版本结构详解：[webpack老版本结构详解3](http://www.cnblogs.com/ye-hcj/p/7077796.html)
+
+7、webpack老版本从0到1配置：[webpack老版本从0到1配置](https://segmentfault.com/a/1190000012536871)
+
+8、使用webpack手动配置开发vue：[使用webpack手动配置开发vue](https://www.jb51.net/article/114883.htm)
