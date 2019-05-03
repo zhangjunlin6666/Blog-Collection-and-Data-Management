@@ -17,3 +17,11 @@ sagmentfault：[sagmentfault](https://segmentfault.com/u/panjiachen)
 
 ## 3、塞冷思
 github地址：[github](https://github.com/sailengsi)
+
+## 4、国安家CTO
+github地址：[gitbub](https://github.com/cinos1)
+
+# 资料收藏
+1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
+2、vue相关框架及组件：[vue-relevant](http://www.cnblogs.com/Leo_wl/p/6517846.html)
+3、
