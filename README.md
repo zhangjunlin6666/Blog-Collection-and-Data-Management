@@ -1,6 +1,6 @@
 # 大牛博客
 ## 1、IT老马
-文档地址：[github.io](https://malun666.github.io/aicoder_vip_doc/#/){:target="_blank"}
+文档地址：[github.io](https://malun666.github.io/aicoder_vip_doc/#/{:target="_blank"})
 
 GitHub地址：[github](https://github.com/malun666/malun666.github.com){:target=”_blank”}
 
