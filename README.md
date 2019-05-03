@@ -31,5 +31,9 @@ github地址：[github](https://github.com/sunlandong)
 github地址：[github](https://github.com/WebCodeFarmer)
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
+
 2、vue相关框架及组件：[vue-relevant](http://www.cnblogs.com/Leo_wl/p/6517846.html)
-3、
+
+3、webpack入门：[webpack入门](https://www.jianshu.com/p/42e11515c10f)
+
+4、webpack老版本结构详解：[webpack老版本结构详解](https://ajimide.gitbooks.io/key-vue-cli-webpack/1.%20Project%20Structure.html)
