@@ -50,7 +50,8 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 10、rollup打包工具中文文档：[rollup](https://www.rollupjs.com/guide/zh)
 
+# 辅助工具
+1、草料二维码：[草料二维码](https://cli.im/)
 
-
-
+2、图片在线压缩工具：[图片在线压缩工具](https://tinypng.com/)
 
