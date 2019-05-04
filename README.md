@@ -47,6 +47,15 @@ github地址：[github](https://github.com/WebCodeFarmer)
 ## 11、王昱森
 博客地址：[王昱森](https://imys.net/)
 
+## 12、哈哈哈蜜瓜
+github：[github](https://github.com/biaodigit)
+
+## 13、Superman
+github：[github](https://github.com/superman66)
+
+## 14、Simon Zhang
+github：[github](https://github.com/SimonZhangITer)
+
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
@@ -109,6 +118,8 @@ github地址：[github](https://github.com/WebCodeFarmer)
 30、vue表格树形控件2：[vue表格树形控件2](https://blog.csdn.net/s8460049/article/details/61414751)
 
 31、vue表格树形控件3：[vue表格树形控件3](https://blog.csdn.net/u010214074/article/details/75088868)
+
+32、npm常用命令：[npm常用命令](http://www.cnblogs.com/PeunZhang/p/5553574.html)
 
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
