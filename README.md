@@ -40,9 +40,9 @@ github地址：[github](https://github.com/WebCodeFarmer)
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
-2、vue相关框架及组件：[vue-relevant](http://www.cnblogs.com/Leo_wl/p/6517846.html)
+2、vue相关框架及组件合集：[vue-relevant](http://www.cnblogs.com/Leo_wl/p/6517846.html)
 
-3、webpack入门：[webpack入门](https://www.jianshu.com/p/42e11515c10f)
+3、简书webpack入门：[简书webpack入门](https://www.jianshu.com/p/42e11515c10f)
 
 4、webpack老版本结构详解1：[webpack老版本结构详解1](https://ajimide.gitbooks.io/key-vue-cli-webpack/1.%20Project%20Structure.html)
 
@@ -60,10 +60,14 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 11、JS判断字符串长度的5个方法（区分中文和英文）[JS判断字符串长度的5个方法（区分中文和英文）](https://www.jb51.net/article/48202.htm)
 
+12、移动端网页实现拨打电话功能的几种方法：[移动端网页实现拨打电话功能的几种方法](https://blog.csdn.net/cengjingcanghai123/article/details/47951003)
+
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
 2、图片在线压缩工具：[图片在线压缩工具](https://tinypng.com/)
+
+3、json-server安装以及服务启动：[json-server安装以及服务启动](https://blog.csdn.net/CSqingchen/article/details/48495353)
 
 # UI、js框架
 weui：[]()
