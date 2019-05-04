@@ -56,6 +56,9 @@ github：[github](https://github.com/superman66)
 ## 14、Simon Zhang
 github：[github](https://github.com/SimonZhangITer)
 
+## 15、段亮
+博客地址：[duanliang920](https://www.duanliang920.com/)
+
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
@@ -141,5 +144,7 @@ github：[github](https://github.com/SimonZhangITer)
 8、谷歌常用插件1：[谷歌常用插件1](https://www.tuicool.com/articles/eQ32Ur)
 
 9、谷歌常用插件2：[谷歌常用插件2](http://chromecj.com/category/web-development/p2.html)
+
+10、众诚翻译：[众诚翻译](https://www.zcfy.cc/)
 # UI、js框架
 weui：[]()
