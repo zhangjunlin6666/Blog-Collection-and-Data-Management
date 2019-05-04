@@ -73,6 +73,7 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 17、vue 插件集合：[vue 插件集合](https://blog.csdn.net/hjh15827475896/article/details/78207066)
 
+18、better-scroll：[better-scroll](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/#better-scroll%20%E6%98%AF%E4%BB%80%E4%B9%88)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
