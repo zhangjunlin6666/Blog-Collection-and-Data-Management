@@ -29,6 +29,13 @@ github地址：[github](https://github.com/sunlandong)
 关于express
 ```
 github地址：[github](https://github.com/WebCodeFarmer)
+
+## 7、张鑫旭
+博客地址：[张鑫旭](https://www.zhangxinxu.com/)
+
+## 8、阮一峰
+博客地址：[阮一峰](http://www.ruanyifeng.com/home.html)
+
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
