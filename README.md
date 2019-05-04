@@ -35,6 +35,7 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 ## 8、阮一峰
 博客地址：[阮一峰](http://www.ruanyifeng.com/home.html)
+
 网道：[网道](https://wangdoc.com/javascript/)
 
 # 资料收藏
@@ -58,9 +59,15 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 10、rollup打包工具中文文档：[rollup](https://www.rollupjs.com/guide/zh)
 
-11、JS判断字符串长度的5个方法（区分中文和英文）[JS判断字符串长度的5个方法（区分中文和英文）](https://www.jb51.net/article/48202.htm)
+11、JS判断字符串长度的5个方法（区分中文和英文）：[JS判断字符串长度的5个方法（区分中文和英文）](https://www.jb51.net/article/48202.htm)
 
 12、移动端网页实现拨打电话功能的几种方法：[移动端网页实现拨打电话功能的几种方法](https://blog.csdn.net/cengjingcanghai123/article/details/47951003)
+
+13、函数节流与防抖：[函数节流与防抖](http://www.cnblogs.com/fsjohnhuang/p/4147810.html
+
+14、css浏览器兼容：[css浏览器兼容](https://www.jianshu.com/p/f66936ecdf99)
+
+15浏览器兼容性-JS篇：[浏览器兼容性-JS篇](http://www.cnblogs.com/daicunya/p/6195387.html)
 
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
