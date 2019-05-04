@@ -63,11 +63,15 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 12、移动端网页实现拨打电话功能的几种方法：[移动端网页实现拨打电话功能的几种方法](https://blog.csdn.net/cengjingcanghai123/article/details/47951003)
 
-13、函数节流与防抖：[函数节流与防抖](http://www.cnblogs.com/fsjohnhuang/p/4147810.html
+13、函数节流与防抖：[函数节流与防抖](http://www.cnblogs.com/fsjohnhuang/p/4147810.html)
 
 14、css浏览器兼容：[css浏览器兼容](https://www.jianshu.com/p/f66936ecdf99)
 
-15浏览器兼容性-JS篇：[浏览器兼容性-JS篇](http://www.cnblogs.com/daicunya/p/6195387.html)
+15、浏览器兼容性-JS篇：[浏览器兼容性-JS篇](http://www.cnblogs.com/daicunya/p/6195387.html)
+
+16、前端js与css兼容性问题：[前端js与css兼容性问题](https://blog.csdn.net/u598975767/article/details/51242962)
+
+17、vue 插件集合：[vue 插件集合](https://blog.csdn.net/hjh15827475896/article/details/78207066)
 
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
