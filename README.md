@@ -78,6 +78,12 @@ github地址：[github](https://github.com/WebCodeFarmer)
 17、vue 插件集合：[vue 插件集合](https://blog.csdn.net/hjh15827475896/article/details/78207066)
 
 18、better-scroll：[better-scroll](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/#better-scroll%20%E6%98%AF%E4%BB%80%E4%B9%88)
+
+19、es5规范：[es5规范](http://yanhaijing.com/es5/#null)
+
+20、Vue 爬坑之路（七）—— 监听滚动事件 实现动态锚点：[Vue 爬坑之路（七）—— 监听滚动事件 实现动态锚点](http://www.cnblogs.com/wisewrong/p/6495726.html)
+
+21、Vue2.0 新手完全填坑攻略——从环境搭建到发布：[Vue2.0 新手完全填坑攻略——从环境搭建到发布](https://www.jianshu.com/p/5ba253651c3b)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
