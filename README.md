@@ -94,6 +94,10 @@ github地址：[github](https://github.com/WebCodeFarmer)
 25、gitbook使用笔记：[gitbook使用笔记](https://morrowind.gitbooks.io/gitbook_notes/)
 
 26、mockjs掘金：[mockjs掘金](https://juejin.im/post/599c1bfaf265da248d0cc6b6?utm_source=gold_browser_extension)
+
+27、JavaScript定时器实现的原理分析：[JavaScript定时器实现的原理分析](https://www.jb51.net/article/99174.htm)
+
+28、用原生JS读写CSS样式的方法总结：[用原生JS读写CSS样式的方法总结](http://www.cnblogs.com/susufufu/p/5749922.html)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
