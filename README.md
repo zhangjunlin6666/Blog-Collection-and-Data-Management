@@ -38,9 +38,14 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 网道：[网道](https://wangdoc.com/javascript/)
 
-## 9、w3ctrain：[w3ctrain](https://www.w3ctrain.com/)
+## 9、w3ctrain
+博客地址：[w3ctrain](https://www.w3ctrain.com/)
 
-## 10、廖雪峰：[廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312/1098076240273504)
+## 10、廖雪峰
+博客地址：[廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312/1098076240273504)
+
+## 11、王昱森
+博客地址：[王昱森](https://imys.net/)
 
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
