@@ -124,5 +124,9 @@ github地址：[github](https://github.com/WebCodeFarmer)
 6、阿里巴巴icon：[阿里巴巴icon](https://www.iconfont.cn/collections/index?type=3)
 
 7、sketchcn：[sketchcn](http://www.sketchcn.com)
+
+8、谷歌常用插件1：[谷歌常用插件1](https://www.tuicool.com/articles/eQ32Ur)
+
+9、谷歌常用插件2：[谷歌常用插件2](http://chromecj.com/category/web-development/p2.html)
 # UI、js框架
 weui：[]()
