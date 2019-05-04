@@ -87,7 +87,11 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 22、gitbook结合github写笔记：[gitbook结合github写笔记](https://blog.csdn.net/hk2291976/article/details/51173850)
 
-23、GitBook 简明教程：[GitBook 简明教程](http://www.chengweiyang.cn/gitbook/)
+23、gitbook 简明教程：[GitBook 简明教程](http://www.chengweiyang.cn/gitbook/)
+
+24、gitbook简书：[gitbook简书](https://www.jianshu.com/p/09a1cac0a0d0)
+
+25、gitbook使用笔记：[gitbook使用笔记](https://morrowind.gitbooks.io/gitbook_notes/)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
