@@ -84,6 +84,10 @@ github地址：[github](https://github.com/WebCodeFarmer)
 20、Vue 爬坑之路（七）—— 监听滚动事件 实现动态锚点：[Vue 爬坑之路（七）—— 监听滚动事件 实现动态锚点](http://www.cnblogs.com/wisewrong/p/6495726.html)
 
 21、Vue2.0 新手完全填坑攻略——从环境搭建到发布：[Vue2.0 新手完全填坑攻略——从环境搭建到发布](https://www.jianshu.com/p/5ba253651c3b)
+
+22、gitbook结合github写笔记：[gitbook结合github写笔记](https://blog.csdn.net/hk2291976/article/details/51173850)
+
+23、GitBook 简明教程：[GitBook 简明教程](http://www.chengweiyang.cn/gitbook/)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
