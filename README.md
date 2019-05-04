@@ -35,6 +35,7 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 ## 8、阮一峰
 博客地址：[阮一峰](http://www.ruanyifeng.com/home.html)
+网道：[网道](https://wangdoc.com/javascript/)
 
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
@@ -57,8 +58,12 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 10、rollup打包工具中文文档：[rollup](https://www.rollupjs.com/guide/zh)
 
+11、JS判断字符串长度的5个方法（区分中文和英文）[JS判断字符串长度的5个方法（区分中文和英文）](https://www.jb51.net/article/48202.htm)
+
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
 2、图片在线压缩工具：[图片在线压缩工具](https://tinypng.com/)
 
+# UI、js框架
+weui：[]()
