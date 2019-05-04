@@ -121,6 +121,8 @@ github：[github](https://github.com/SimonZhangITer)
 
 32、npm常用命令：[npm常用命令](http://www.cnblogs.com/PeunZhang/p/5553574.html)
 
+33、css属性filter详解：[css属性filter详解](https://www.jianshu.com/p/ca7a2bdcc1e7)
+
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
