@@ -117,5 +117,10 @@ github地址：[github](https://github.com/WebCodeFarmer)
 
 3、json-server安装以及服务启动：[json-server安装以及服务启动](https://blog.csdn.net/CSqingchen/article/details/48495353)
 
+4、Font Awesome：[Font Awesome](http://fontawesome.dashgame.com/)
+
+5、icomoon：[icomoon](https://icomoon.io/)
+
+6、阿里巴巴icon：[阿里巴巴icon](https://www.iconfont.cn/collections/index?type=3)
 # UI、js框架
 weui：[]()
