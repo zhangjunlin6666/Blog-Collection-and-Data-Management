@@ -63,6 +63,9 @@ github：[github](https://github.com/SimonZhangITer)
 ## 15、段亮
 博客地址：[duanliang920](https://www.duanliang920.com/)
 
+## 16、PWA-github地址
+github：[PWA](https://github.com/SangKa/PWA-Book-CN)
+
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
@@ -134,6 +137,7 @@ github：[github](https://github.com/SimonZhangITer)
 
 35、前端性能优化最佳实践2：[前端性能优化最佳实践2](https://www.jianshu.com/p/25ffda51e9a8)
 
+36、director路由：[director](https://github.com/flatiron/director)
 
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
@@ -155,5 +159,8 @@ github：[github](https://github.com/SimonZhangITer)
 9、谷歌常用插件2：[谷歌常用插件2](http://chromecj.com/category/web-development/p2.html)
 
 10、众诚翻译：[众诚翻译](https://www.zcfy.cc/)
+
+11、时间格式库：[momentjs](http://momentjs.cn/)
+
 # UI、js框架
 weui：[]()
