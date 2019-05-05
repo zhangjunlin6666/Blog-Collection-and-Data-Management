@@ -130,6 +130,11 @@ github：[github](https://github.com/SimonZhangITer)
 
 33、css属性filter详解：[css属性filter详解](https://www.jianshu.com/p/ca7a2bdcc1e7)
 
+34、前端性能优化最佳实践1：[前端性能优化最佳实践1](https://www.jianshu.com/p/9265d07fe97d)
+
+35、前端性能优化最佳实践2：[前端性能优化最佳实践2](https://www.jianshu.com/p/25ffda51e9a8)
+
+
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
