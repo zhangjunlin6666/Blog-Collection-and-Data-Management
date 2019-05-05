@@ -162,5 +162,7 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 
 11、时间格式库：[momentjs](http://momentjs.cn/)
 
+12、贝塞尔曲线：[贝塞尔曲线](https://cubic-bezier.com/#0,.86,.34,.68)
+
 # UI、js框架
 weui：[]()
