@@ -34,7 +34,8 @@ github地址：[github](https://github.com/WebCodeFarmer)
 博客地址：[张鑫旭](https://www.zhangxinxu.com/)
 
 ## 8、阮一峰
-博客地址：[阮一峰](http://www.ruanyifeng.com/home.html)
+博客地址1：[阮一峰](http://www.ruanyifeng.com/home.html)
+博客地址2：[阮一峰](http://javascript.ruanyifeng.com)
 
 网道：[网道](https://wangdoc.com/javascript/)
 
