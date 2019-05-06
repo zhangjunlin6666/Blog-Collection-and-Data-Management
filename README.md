@@ -139,6 +139,14 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 
 36、director路由：[director](https://github.com/flatiron/director)
 
+37、2017前端面试题：[2017前端面试题](https://segmentfault.com/a/1190000011091907?from=groupmessage&isappinstalled=0)
+
+38、ios输入框被键盘挡住的解决方案：[ios输入框被键盘挡住的解决方案](https://www.cnblogs.com/wx1993/p/6059668.html)
+
+    scrollintoviewifneeded
+    
+    scrollintoview
+
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
