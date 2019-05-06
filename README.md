@@ -179,6 +179,10 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 54、向左滑动删除功能的实现：[向左滑动删除功能的实现](https://www.jb51.net/article/108071.htm)
 
 55、手机软键盘搜索按钮实现点击搜索功能：[手机软键盘搜索按钮实现点击搜索功能](https://blog.csdn.net/github_39237934/article/details/75258285)
+
+56、输入网址之后发生了什么：[输入网址之后发生了什么](https://www.zybuluo.com/yangfch3/note/113028)
+
+57、HTTP协议详解：[HTTP协议详解](https://blog.csdn.net/u013424496/article/details/51610719)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
