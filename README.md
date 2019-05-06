@@ -202,6 +202,8 @@ github：[Jianghua.yjh](https://github.com/yjhjstz/deep-into-node)
 61、用Supervisor守护你的Node.js进程：[用Supervisor守护你的Node.js进程](https://www.jianshu.com/p/6d84e5efe99d)
 
 62、express 4.X.X版本 npm版本3.X.X版本以上 没有layout.js文件的解决方法 页面布局设置的方法：[express 4.X.X版本 npm版本3.X.X版本以上 没有layout.js文件的解决方法 页面布局设置的方法](https://blog.csdn.net/hezudao25/article/details/71194468)
+
+63、mac 下mongodb connect failed 连接错误：[mac 下mongodb connect failed 连接错误](https://www.cnblogs.com/timtike/p/6629764.html)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
@@ -232,5 +234,7 @@ github：[Jianghua.yjh](https://github.com/yjhjstz/deep-into-node)
 14、iOS证书申请和使用详解：[iOS证书申请和使用详解](https://www.jianshu.com/p/01224fc523d4)
 
 15、Drone CI 搭建：[Drone CI 搭建](https://mritd.me/2018/03/30/set-up-drone-ci/)
+
+16、processon免费在线作图：[processon](https://www.processon.com/support#preface)
 # UI、js框架
 weui：[]()
