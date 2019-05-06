@@ -153,6 +153,10 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 
 41、移动端适配总结3：[移动端适配总结3](https://segmentfault.com/a/1190000008767416)
 
+42、移动端适配总结4：[移动端适配总结4](https://www.jianshu.com/p/4f36b0a85f5c)
+
+43、hotcss移动端布局终极解决方案：[hotcss移动端布局终极解决方案](http://imochen.github.io/hotcss/)
+
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
@@ -177,6 +181,8 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 11、时间格式库：[momentjs](http://momentjs.cn/)
 
 12、贝塞尔曲线：[贝塞尔曲线](https://cubic-bezier.com/#0,.86,.34,.68)
+
+13、资料查找：[IBM](https://www.ibm.com/developerworks/cn/) [MDN](https://developer.mozilla.org/zh-CN/docs/Web)
 
 # UI、js框架
 weui：[]()
