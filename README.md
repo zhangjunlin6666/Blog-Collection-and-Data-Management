@@ -81,6 +81,11 @@ github：[关于node项目以及koa中文教程](https://github.com/guo-yu)
 ## 21、云云酱
 github：[关于前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)
 
+## 22、Dunizb
+博客地址：[2017我遇到的前端面试题](https://blog.dunizb.com//2017/09/08/interview-questions-2017/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+github：[github](https://github.com/dunizb)
+
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
@@ -232,6 +237,8 @@ github：[关于前端开发面试题](https://github.com/markyun/My-blog/blob/m
 73、适用于 vue.js 和原生 js 的渐进式图片加载：[适用于 vue.js 和原生 js 的渐进式图片加载](https://mp.weixin.qq.com/s/5pok3S7OAHBugry9KzMQpA)
 
 74、剖析Vue原理&实现双向绑定MVVM：[剖析Vue原理&实现双向绑定MVVM](https://segmentfault.com/a/1190000006599500)
+
+75、Vue2.0 新手完全填坑攻略——从环境搭建到发布：[Vue2.0 新手完全填坑攻略——从环境搭建到发布](https://www.jianshu.com/p/5ba253651c3b)
 # 辅助工具以及规范
 1、草料二维码：[草料二维码](https://cli.im/)
 
@@ -278,6 +285,9 @@ github：[关于前端开发面试题](https://github.com/markyun/My-blog/blob/m
 22、koa中文指南：[koa中文指南](https://koa.bootcss.com/#links)
 
 23、前端代码规范：[前端代码规范](http://standard.lijinglun.com/docs/)
+
+24、vue表格组件vue-easytable：[vue-easytable](http://doc.huangsw.com/vue-easytable/app.html#/start)
+
 
 # 百度网盘资料
 Java入门进阶实战视频教程（共16套）	[云盘地址](http://pan.baidu.com/s/1hs3amgs)     密码：rt6q
