@@ -175,6 +175,10 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 52、Vue 单页面实现 SEO 的另一种思路：[Vue 单页面实现 SEO 的另一种思路](https://segmentfault.com/p/1210000011080447)
 
 53、Vue.js教程: 构建一个预渲染SEO友好的应用示例：[Vue.js教程: 构建一个预渲染SEO友好的应用示例](https://www.jianshu.com/p/65b42f6215ff)
+
+54、向左滑动删除功能的实现：[向左滑动删除功能的实现](https://www.jb51.net/article/108071.htm)
+
+55、手机软键盘搜索按钮实现点击搜索功能：[手机软键盘搜索按钮实现点击搜索功能](https://blog.csdn.net/github_39237934/article/details/75258285)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
