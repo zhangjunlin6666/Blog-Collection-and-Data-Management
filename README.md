@@ -157,6 +157,11 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 
 43、hotcss移动端布局终极解决方案：[hotcss移动端布局终极解决方案](http://imochen.github.io/hotcss/)
 
+44、css无图片技术：[css无图片技术](http://www.mahaixiang.cn/css/402.html)
+
+45、纯css 如何实现文本超出部分横向滚动：[纯css 如何实现文本超出部分横向滚动](https://segmentfault.com/q/1010000011698306)
+
+46、解决页面使用overflow: scroll在iOS上滑动卡顿的问题：[解决页面使用overflow: scroll在iOS上滑动卡顿的问题](https://www.jianshu.com/p/1f4693d0ad2d)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
@@ -183,6 +188,8 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 12、贝塞尔曲线：[贝塞尔曲线](https://cubic-bezier.com/#0,.86,.34,.68)
 
 13、资料查找：[IBM](https://www.ibm.com/developerworks/cn/) [MDN](https://developer.mozilla.org/zh-CN/docs/Web)
+
+14、iOS证书申请和使用详解：[iOS证书申请和使用详解](https://www.jianshu.com/p/01224fc523d4)
 
 # UI、js框架
 weui：[]()
