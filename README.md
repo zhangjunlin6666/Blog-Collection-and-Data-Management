@@ -209,6 +209,12 @@ github：[关于node项目以及koa中文教程](https://github.com/guo-yu)
 63、mac 下mongodb connect failed 连接错误：[mac 下mongodb connect failed 连接错误](https://www.cnblogs.com/timtike/p/6629764.html)
 
 64、移动前端自适应解决方案和比较：[移动前端自适应解决方案和比较](https://mp.weixin.qq.com/s/VtNJ20gOIor4CJ-AB_lRPw)
+
+65、HTML 5.1 -- 14项新增功能及如何使用：[HTML 5.1 -- 14项新增功能及如何使用](https://mp.weixin.qq.com/s/gp7RGfIZK73HffE_H3evYg)
+
+66、javascript：[javascript高级用法原理以及插件编写](http://www.cnblogs.com/strick/tag/javascript/)
+
+67、HTML5面试题总结：[HTML5面试题总结](https://www.zybuluo.com/lidaze/note/561975)
 # 辅助工具以及规范
 1、草料二维码：[草料二维码](https://cli.im/)
 
