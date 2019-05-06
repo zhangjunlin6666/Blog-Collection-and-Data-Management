@@ -69,6 +69,12 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 ## 17、godbasin---重点看
 github：[godbasin](https://github.com/godbasin/godbasin.github.io)
 
+## 18、ZhengFang
+github：[ZhengFang](https://github.com/Foveluy/Fz-node/tree/master/docs)
+
+## 19、nodejs源码分析---重点看
+github：[Jianghua.yjh](https://github.com/yjhjstz/deep-into-node)
+
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
@@ -190,6 +196,8 @@ github：[godbasin](https://github.com/godbasin/godbasin.github.io)
 58、彻底弄懂HTTP缓存机制及原理：[彻底弄懂HTTP缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)
 
 59、http协议缓存机制：[http协议缓存机制](https://segmentfault.com/a/1190000010690320)
+
+60、2018前端面试准备：[2018前端面试准备](https://segmentfault.com/a/1190000012428851)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
