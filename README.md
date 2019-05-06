@@ -218,6 +218,20 @@ github：[关于前端开发面试题](https://github.com/markyun/My-blog/blob/m
 66、javascript：[javascript高级用法原理以及插件编写](http://www.cnblogs.com/strick/tag/javascript/)
 
 67、HTML5面试题总结：[HTML5面试题总结](https://www.zybuluo.com/lidaze/note/561975)
+
+68、JavaScript 中的 HTTP 跨域请求：[JavaScript 中的 HTTP 跨域请求](https://mp.weixin.qq.com/s?__biz=MjM5MDA2MTI1MA==&mid=2649084877&idx=2&sn=26b752cdbe32354ef5e0a9030d450e63&chksm=be5bf460892c7d768bd4abc485ee02ed1a3953f4a9dcafcf487a4fb4d4c0215da7dddf661924&mpshare=1&scene=22&srcid=0227OL2SzAsfPFB8bg2D2KsJ)
+
+69、Javascript 中的神器——Promise：[Javascript 中的神器——Promise](https://mp.weixin.qq.com/s/2u1OWJs-ga8LMMVjSswVVg)
+
+70、详解JS构造函数方法与原型prototype上的方法：[详解JS构造函数方法与原型prototype上的方法](https://mp.weixin.qq.com/s/AuqZx9LPPpOFQsqGJ8Wj8Q)
+
+71、Vue 双向数据绑定原理分析：[Vue 双向数据绑定原理分析](https://mp.weixin.qq.com/s/qryrAzUiw5g2FO_1lLsL-A)
+
+72、前端性能优化（1）：[前端性能优化（1）](https://mp.weixin.qq.com/s/v4B2iDkta6wkzgbz0zcmYw)
+
+73、适用于 vue.js 和原生 js 的渐进式图片加载：[适用于 vue.js 和原生 js 的渐进式图片加载](https://mp.weixin.qq.com/s/5pok3S7OAHBugry9KzMQpA)
+
+74  \
 # 辅助工具以及规范
 1、草料二维码：[草料二维码](https://cli.im/)
 
@@ -262,5 +276,72 @@ github：[关于前端开发面试题](https://github.com/markyun/My-blog/blob/m
 21、html2canvas网页截图：[html2canvas](http://html2canvas.hertzen.com/getting-started/)
 
 22、koa中文指南：[koa中文指南](https://koa.bootcss.com/#links)
-# UI、js框架
-weui：[]()
+
+23、前端代码规范：[前端代码规范](http://standard.lijinglun.com/docs/)
+
+# 百度网盘资料
+Java入门进阶实战视频教程（共16套）	[云盘地址](http://pan.baidu.com/s/1hs3amgs)     密码：rt6q
+
+C语言入门进阶实战视频教程（共12套）	[云盘地址](https://pan.baidu.com/s/1jHZOOgm)    密码：obqj
+
+C#基础进阶实战视频教程（共10套）	[云盘地址](https://pan.baidu.com/s/1o8rXzCI)     密码：1nzr
+
+C++入门进阶实战视频教程（共10套）	[云盘地址](http://pan.baidu.com/s/1ge4NVJd)     密码：qcrr
+
+python+Django入门进阶实战视频教程（共11套）	[云盘地址](https://pan.baidu.com/s/1i5odMyp)    密码：n6pj
+
+AngularJS基础进阶视频教程（共6套）	[云盘地址](https://pan.baidu.com/s/1slu9yaD)     密码：o0lm
+
+Go/Golang web视频教程（共2套）	[云盘地址](https://pan.baidu.com/s/1o7SV1gu)    密码：6ius
+
+PHP Laravel视频教程（共12套）	[云盘地址](https://pan.baidu.com/s/1eSgc1FW)      密码：5y2w
+
+NodeJS入门进阶视频教程（共13套）	[云盘地址](https://pan.baidu.com/s/1nvc0wMt)      密码：td2k
+
+JavaScript入门-设计模式 视频教程（共14套）	[云盘地址](https://pan.baidu.com/s/1dFaFcZZ)     密码：7ugk
+
+Egret-Typescript入门进阶实战视频教程（共6套）	[云盘地址](https://pan.baidu.com/s/1jIyRWIq)     密码：m9fk
+
+前端构建webpack+gulp+sass+less+es6视频教程（共11套）	[云盘地址](https://pan.baidu.com/s/1slPbr5N)      密码：66o5
+
+HTML5+CSS视频教程（共11套）	[云盘地址](https://pan.baidu.com/s/1gfDQ4gF)      密码：iqj1
+
+Vue.js VueJS vue vue2.0入门进阶视频教程（共6套）	[云盘地址](https://pan.baidu.com/s/1slD6rJf)      密码：zxhm
+
+React入门进阶视频教程（共3套）	[云盘地址](https://pan.baidu.com/s/1gf1FZpT)      密码：kju9
+
+Oracle入门进阶视频教程（共4套）	[云盘地址](https://pan.baidu.com/s/1hs2Z024)      密码：tpnb
+
+MongoDB入门进阶视频教程（共4套）	[云盘地址](https://pan.baidu.com/s/1pL74RaF)      密码：bqcz
+
+微信公众平台开发入门实战视频教程（共6套）	[云盘地址](http://pan.baidu.com/s/1mi0kyIO)     密码：2bnn
+
+微信小程序开发入门实战视频教程（共7套）	[云盘地址](http://pan.baidu.com/s/1c2Jx8eG)      密码：t61e
+
+Linux+Shell+Gcc入门进阶实战视频教程（共12套）	[云盘地址](https://pan.baidu.com/s/1ge31WL9)      密码：vh2a
+
+系统架构（Nginx,Linux集群,分布式）视频教程（共5套）	[云盘地址](https://pan.baidu.com/s/1c1JM9K8)      密码：qle6
+
+Android入门进阶实战视频教程（共10套）	[云盘地址](https://pan.baidu.com/s/1qYxuoWW)      密码：lj1y
+
+ios开发入门及实战视频教程（共8套）	[云盘地址](https://pan.baidu.com/s/1slKsM65)      密码：hxhm
+
+React Native入门及实战视频教程	[云盘地址](https://pan.baidu.com/s/1pLwas3L)      密码：4447
+
+Git+SVN视频教程（共8套）	[云盘地址](https://pan.baidu.com/s/1c2l6lkG)      密码：b2bm
+
+Openstack入门进阶实战视频教程（共5套）	[云盘地址](https://pan.baidu.com/s/1hrAkSvy)      密码：0l1y
+
+docker基础进阶实战视频教程（共6套）	[云盘地址](https://pan.baidu.com/s/1hrLGgoG)     密码：uxp4
+
+Hadoop/Mahout/Flume入门进阶实战视频教程（共16套）	[云盘地址](https://pan.baidu.com/s/1c7Z70U) 密码：1ies
+
+Kafka入门进阶视频教程（共2套）	[云盘地址](https://pan.baidu.com/s/1gf2vOT9)      密码：un3q
+
+R语言入门进阶实战课程（共6套）	[云盘地址](https://pan.baidu.com/s/1gfLYKvx)      密码：c4e8
+
+Spark+Scala+Storm视频教程（共8套）	[云盘地址](https://pan.baidu.com/s/1mia1pPY)      密码：7z5i
+
+Redis从入门进阶视频教程（共8套）	[云盘地址](https://pan.baidu.com/s/1pL4Ne2Z)      密码：c5d5
+
+Mysql入门及进阶视频学习资料实战教程（共11套）	[云盘地址](https://pan.baidu.com/s/1slwB7Dr)      密码：rjz3
