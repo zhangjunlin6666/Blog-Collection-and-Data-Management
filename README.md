@@ -146,6 +146,12 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
     scrollintoviewifneeded
     
     scrollintoview
+    
+39、移动端适配总结1：[移动端适配总结1](http://html-js.com/article/MobileWeb)
+
+40、移动端适配总结2：[移动端适配总结2](https://segmentfault.com/a/1190000004358316)
+
+41、移动端适配总结3：[移动端适配总结3](https://segmentfault.com/a/1190000008767416)
 
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
