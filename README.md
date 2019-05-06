@@ -171,6 +171,10 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 50、CSS 实现元素垂直居中：[CSS 实现元素垂直居中](https://www.zhihu.com/question/20543196)
 
 51、几种相册图片布局方式：[几种相册图片布局方式](https://blog.csdn.net/cithegod/article/details/51566477)
+
+52、Vue 单页面实现 SEO 的另一种思路：[Vue 单页面实现 SEO 的另一种思路](https://segmentfault.com/p/1210000011080447)
+
+53、Vue.js教程: 构建一个预渲染SEO友好的应用示例：[Vue.js教程: 构建一个预渲染SEO友好的应用示例](https://www.jianshu.com/p/65b42f6215ff)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
