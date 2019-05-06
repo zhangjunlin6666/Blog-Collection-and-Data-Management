@@ -198,6 +198,10 @@ github：[Jianghua.yjh](https://github.com/yjhjstz/deep-into-node)
 59、http协议缓存机制：[http协议缓存机制](https://segmentfault.com/a/1190000010690320)
 
 60、2018前端面试准备：[2018前端面试准备](https://segmentfault.com/a/1190000012428851)
+
+61、用Supervisor守护你的Node.js进程：[用Supervisor守护你的Node.js进程](https://www.jianshu.com/p/6d84e5efe99d)
+
+62、express 4.X.X版本 npm版本3.X.X版本以上 没有layout.js文件的解决方法 页面布局设置的方法：[express 4.X.X版本 npm版本3.X.X版本以上 没有layout.js文件的解决方法 页面布局设置的方法](https://blog.csdn.net/hezudao25/article/details/71194468)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
