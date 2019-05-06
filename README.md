@@ -231,7 +231,7 @@ github：[关于前端开发面试题](https://github.com/markyun/My-blog/blob/m
 
 73、适用于 vue.js 和原生 js 的渐进式图片加载：[适用于 vue.js 和原生 js 的渐进式图片加载](https://mp.weixin.qq.com/s/5pok3S7OAHBugry9KzMQpA)
 
-74  \
+74、剖析Vue原理&实现双向绑定MVVM：[剖析Vue原理&实现双向绑定MVVM](https://segmentfault.com/a/1190000006599500)
 # 辅助工具以及规范
 1、草料二维码：[草料二维码](https://cli.im/)
 
