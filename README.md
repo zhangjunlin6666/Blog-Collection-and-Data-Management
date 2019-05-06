@@ -183,6 +183,10 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 56、输入网址之后发生了什么：[输入网址之后发生了什么](https://www.zybuluo.com/yangfch3/note/113028)
 
 57、HTTP协议详解：[HTTP协议详解](https://blog.csdn.net/u013424496/article/details/51610719)
+
+58、彻底弄懂HTTP缓存机制及原理：[彻底弄懂HTTP缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)
+
+59、http协议缓存机制：[http协议缓存机制](https://segmentfault.com/a/1190000010690320)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
