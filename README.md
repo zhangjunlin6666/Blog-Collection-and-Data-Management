@@ -236,5 +236,7 @@ github：[Jianghua.yjh](https://github.com/yjhjstz/deep-into-node)
 15、Drone CI 搭建：[Drone CI 搭建](https://mritd.me/2018/03/30/set-up-drone-ci/)
 
 16、processon免费在线作图：[processon](https://www.processon.com/support#preface)
+
+17、页面规范tgideas：[页面前端规范](https://tgideas.qq.com/doc/frontend/)
 # UI、js框架
 weui：[]()
