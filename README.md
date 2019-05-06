@@ -75,6 +75,9 @@ github：[ZhengFang](https://github.com/Foveluy/Fz-node/tree/master/docs)
 ## 19、nodejs源码分析---重点看
 github：[Jianghua.yjh](https://github.com/yjhjstz/deep-into-node)
 
+## 20、guoyu
+github：[关于node项目以及koa中文教程](https://github.com/guo-yu)
+
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
@@ -204,7 +207,7 @@ github：[Jianghua.yjh](https://github.com/yjhjstz/deep-into-node)
 62、express 4.X.X版本 npm版本3.X.X版本以上 没有layout.js文件的解决方法 页面布局设置的方法：[express 4.X.X版本 npm版本3.X.X版本以上 没有layout.js文件的解决方法 页面布局设置的方法](https://blog.csdn.net/hezudao25/article/details/71194468)
 
 63、mac 下mongodb connect failed 连接错误：[mac 下mongodb connect failed 连接错误](https://www.cnblogs.com/timtike/p/6629764.html)
-# 辅助工具
+# 辅助工具以及规范
 1、草料二维码：[草料二维码](https://cli.im/)
 
 2、图片在线压缩工具：[图片在线压缩工具](https://tinypng.com/)
@@ -238,5 +241,15 @@ github：[Jianghua.yjh](https://github.com/yjhjstz/deep-into-node)
 16、processon免费在线作图：[processon](https://www.processon.com/support#preface)
 
 17、页面规范tgideas：[页面前端规范](https://tgideas.qq.com/doc/frontend/)
+
+18、git - 简易指南：[git - 简易指南](http://www.bootcss.com/p/git-guide/)
+
+19、深入理解学习Git工作流（git-workflow-tutorial）：[深入理解学习Git工作流（git-workflow-tutorial）](https://segmentfault.com/a/1190000002918123)
+
+20、游戏引擎layabox：[游戏引擎layabox](https://ldc.layabox.com/doc/?nav=zh-as-0-3-0)
+
+21、html2canvas网页截图：[html2canvas](http://html2canvas.hertzen.com/getting-started/)
+
+22、koa中文指南：[koa中文指南](https://koa.bootcss.com/#links)
 # UI、js框架
 weui：[]()
