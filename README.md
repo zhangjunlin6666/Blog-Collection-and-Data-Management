@@ -146,22 +146,31 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
     scrollintoviewifneeded
     
     scrollintoview
-    
-39、移动端适配总结1：[移动端适配总结1](http://html-js.com/article/MobileWeb)
+39、scrollIntoView 与平滑滚动：[scrollIntoView 与平滑滚动](https://segmentfault.com/a/1190000012836890)
 
-40、移动端适配总结2：[移动端适配总结2](https://segmentfault.com/a/1190000004358316)
+40、移动端适配总结1：[移动端适配总结1](http://html-js.com/article/MobileWeb)
 
-41、移动端适配总结3：[移动端适配总结3](https://segmentfault.com/a/1190000008767416)
+41、移动端适配总结2：[移动端适配总结2](https://segmentfault.com/a/1190000004358316)
 
-42、移动端适配总结4：[移动端适配总结4](https://www.jianshu.com/p/4f36b0a85f5c)
+42、移动端适配总结3：[移动端适配总结3](https://segmentfault.com/a/1190000008767416)
 
-43、hotcss移动端布局终极解决方案：[hotcss移动端布局终极解决方案](http://imochen.github.io/hotcss/)
+43、移动端适配总结4：[移动端适配总结4](https://www.jianshu.com/p/4f36b0a85f5c)
 
-44、css无图片技术：[css无图片技术](http://www.mahaixiang.cn/css/402.html)
+44、hotcss移动端布局终极解决方案：[hotcss移动端布局终极解决方案](http://imochen.github.io/hotcss/)
 
-45、纯css 如何实现文本超出部分横向滚动：[纯css 如何实现文本超出部分横向滚动](https://segmentfault.com/q/1010000011698306)
+45、css无图片技术：[css无图片技术](http://www.mahaixiang.cn/css/402.html)
 
-46、解决页面使用overflow: scroll在iOS上滑动卡顿的问题：[解决页面使用overflow: scroll在iOS上滑动卡顿的问题](https://www.jianshu.com/p/1f4693d0ad2d)
+46、纯css 如何实现文本超出部分横向滚动：[纯css 如何实现文本超出部分横向滚动](https://segmentfault.com/q/1010000011698306)
+
+47、解决页面使用overflow: scroll在iOS上滑动卡顿的问题：[解决页面使用overflow: scroll在iOS上滑动卡顿的问题](https://www.jianshu.com/p/1f4693d0ad2d)
+
+48、CSS3自定义滚动条样式 -webkit-scrollbar：[CSS3自定义滚动条样式 -webkit-scrollbar](https://blog.csdn.net/hanshileiai/article/details/40398177)
+
+49、-webkit-tap-highlight-color：[-webkit-tap-highlight-color](https://www.jianshu.com/p/c4acc4154d17)
+
+50、CSS 实现元素垂直居中：[CSS 实现元素垂直居中](https://www.zhihu.com/question/20543196)
+
+51、几种相册图片布局方式：[几种相册图片布局方式](https://blog.csdn.net/cithegod/article/details/51566477)
 # 辅助工具
 1、草料二维码：[草料二维码](https://cli.im/)
 
