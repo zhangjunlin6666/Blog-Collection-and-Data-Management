@@ -239,6 +239,27 @@ github：[github](https://github.com/dunizb)
 74、剖析Vue原理&实现双向绑定MVVM：[剖析Vue原理&实现双向绑定MVVM](https://segmentfault.com/a/1190000006599500)
 
 75、Vue2.0 新手完全填坑攻略——从环境搭建到发布：[Vue2.0 新手完全填坑攻略——从环境搭建到发布](https://www.jianshu.com/p/5ba253651c3b)
+
+76、腾讯校招前端三面：[腾讯校招前端三面](https://juejin.im/post/59c907d46fb9a00a4746e2db?utm_source=gold_browser_extension)
+
+77、前端面试题小集：[前端面试题小集](https://mp.weixin.qq.com/s/kPnJLnbaDgYIBuEafI4siQ)
+
+78、关于移动端开发的一些总结：[关于移动端开发的一些总结](http://www.cnblogs.com/xsilence/p/5774737.html)
+
+79、移动端页面开发流程：[移动端页面开发流程](http://www.cnblogs.com/qijunjun/p/7152236.html)
+
+80、搭建 vue2 vue-router2 webpack3 多入口工程：[搭建 vue2 vue-router2 webpack3 多入口工程](https://juejin.im/entry/5a04f819f265da43310d4687?utm_source=gold_browser_extension)
+
+81、移动端Web页面适配方案：[移动端Web页面适配方案](https://segmentfault.com/a/1190000008767416)
+
+82、设备像素，设备独立像素，CSS像素：[设备像素，设备独立像素，CSS像素](http://yunkus.com/physical-pixel-device-independent-pixels/)
+
+83、移动web资源整理：[移动web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html)
+
+84、JavaScript 轻量级函数式编程：[《JavaScript 轻量级函数式编程》](https://juejin.im/post/5a2f93666fb9a045132aaaa1)
+
+85、让虚拟DOM和DOM-diff不再成为你的绊脚石：[让虚拟DOM和DOM-diff不再成为你的绊脚石](https://mp.weixin.qq.com/s/3G3VrG5VzOEBU5EcyCK7gg)
+
 # 辅助工具以及规范
 1、草料二维码：[草料二维码](https://cli.im/)
 
@@ -288,7 +309,7 @@ github：[github](https://github.com/dunizb)
 
 24、vue表格组件vue-easytable：[vue-easytable](http://doc.huangsw.com/vue-easytable/app.html#/start)
 
-
+25、Vue 开源项目库汇总：[Vue 开源项目库汇总](https://mp.weixin.qq.com/s/mK5bolwSu9gnTwkCLauZhQ)
 # 百度网盘资料
 Java入门进阶实战视频教程（共16套）	[云盘地址](http://pan.baidu.com/s/1hs3amgs)     密码：rt6q
 
