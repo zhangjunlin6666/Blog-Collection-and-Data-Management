@@ -207,6 +207,8 @@ github：[关于node项目以及koa中文教程](https://github.com/guo-yu)
 62、express 4.X.X版本 npm版本3.X.X版本以上 没有layout.js文件的解决方法 页面布局设置的方法：[express 4.X.X版本 npm版本3.X.X版本以上 没有layout.js文件的解决方法 页面布局设置的方法](https://blog.csdn.net/hezudao25/article/details/71194468)
 
 63、mac 下mongodb connect failed 连接错误：[mac 下mongodb connect failed 连接错误](https://www.cnblogs.com/timtike/p/6629764.html)
+
+64、移动前端自适应解决方案和比较：[移动前端自适应解决方案和比较](https://mp.weixin.qq.com/s/VtNJ20gOIor4CJ-AB_lRPw)
 # 辅助工具以及规范
 1、草料二维码：[草料二维码](https://cli.im/)
 
