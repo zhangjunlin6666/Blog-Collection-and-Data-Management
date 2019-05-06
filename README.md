@@ -204,5 +204,6 @@ github：[PWA](https://github.com/SangKa/PWA-Book-CN)
 
 14、iOS证书申请和使用详解：[iOS证书申请和使用详解](https://www.jianshu.com/p/01224fc523d4)
 
+15、Drone CI 搭建：[Drone CI 搭建](https://mritd.me/2018/03/30/set-up-drone-ci/)
 # UI、js框架
 weui：[]()
