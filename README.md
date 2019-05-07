@@ -376,3 +376,7 @@ Spark+Scala+Storm视频教程（共8套）	[云盘地址](https://pan.baidu.com/
 Redis从入门进阶视频教程（共8套）	[云盘地址](https://pan.baidu.com/s/1pL4Ne2Z)      密码：c5d5
 
 Mysql入门及进阶视频学习资料实战教程（共11套）	[云盘地址](https://pan.baidu.com/s/1slwB7Dr)      密码：rjz3
+
+WEB全栈公开课 [云盘地址](https://pan.baidu.com/s/1UdtfzNK3ZN7cDobROHd7Uw) 密码：oil4
+
+Web全栈试听课关于vue源码解读 [云盘地址](https://pan.baidu.com/s/1zgrKbRDAi0_E4N_8YshTHA)  密码：7568
