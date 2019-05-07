@@ -381,8 +381,8 @@ WEB全栈公开课 [云盘地址](https://pan.baidu.com/s/1UdtfzNK3ZN7cDobROHd7U
 
 Web全栈试听课关于vue源码解读 [云盘地址](https://pan.baidu.com/s/1zgrKbRDAi0_E4N_8YshTHA)  密码：7568
 
-
-<script type="text/javascript">
+<div>
+    <script type="text/javascript">
     var aTags = Array.prototype.slice.apply(document.getElementsByTagName("a"));
     aTags.forEach(function(el) {
       if(el.href.indexOf("?_blank") > -1) {
@@ -391,3 +391,5 @@ Web全栈试听课关于vue源码解读 [云盘地址](https://pan.baidu.com/s/1
       }
     });
 </script>
+</div>
+
