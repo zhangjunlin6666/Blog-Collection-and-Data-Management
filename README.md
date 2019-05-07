@@ -11,7 +11,7 @@ github地址：[github](https://github.com/malun666/malun666.github.com)
 ## 2、手摸手用vue搭建后台系统系列
 文档地址：[github.io](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD)
 
-github地址：[githut](https://github.com/PanJiaChen)
+github地址：[github](https://github.com/PanJiaChen)
 
 sagmentfault：[sagmentfault](https://segmentfault.com/u/panjiachen)
 
