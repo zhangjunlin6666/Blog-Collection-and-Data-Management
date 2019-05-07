@@ -4,7 +4,7 @@
 
 github地址：[github](https://github.com/malun666/malun666.github.com)
 
-简书地址：[简书](https://www.jianshu.com/u/cb593334c8bc?_blank)
+简书地址：[简书](https://www.jianshu.com/u/cb593334c8bc)
 
 谦太祥和：[视频](https://m.ke.qq.com/agencyHome.html?_bid=167&_wv=2147484673&aid=36500&from=singlemessage&isappinstalled=0#from=agencyIntroShare)
 
@@ -380,16 +380,3 @@ Mysql入门及进阶视频学习资料实战教程（共11套）	[云盘地址](
 WEB全栈公开课 [云盘地址](https://pan.baidu.com/s/1UdtfzNK3ZN7cDobROHd7Uw) 密码：oil4
 
 Web全栈试听课关于vue源码解读 [云盘地址](https://pan.baidu.com/s/1zgrKbRDAi0_E4N_8YshTHA)  密码：7568
-
-<div>
-    <script type="text/javascript">
-    var aTags = Array.prototype.slice.apply(document.getElementsByTagName("a"));
-    aTags.forEach(function(el) {
-      if(el.href.indexOf("?_blank") > -1) {
-        el.target = "_blank";
-        el.href = el.href.replace(":_blank", "");
-      }
-    });
-</script>
-</div>
-
