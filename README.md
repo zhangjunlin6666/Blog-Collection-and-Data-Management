@@ -313,6 +313,8 @@ github：[github](https://github.com/dunizb)
 25、Vue 开源项目库汇总：[Vue 开源项目库汇总](https://mp.weixin.qq.com/s/mK5bolwSu9gnTwkCLauZhQ)
 
 26、gitbook入口：[gitbook入口](https://www.gitbook.com/)
+
+27、kancloud入口：[kancloud](https://help.kancloud.cn/41498)  【账号密码同QQ】
 # 百度网盘资料
 Java入门进阶实战视频教程（共16套）	[云盘地址](http://pan.baidu.com/s/1hs3amgs)     密码：rt6q
 
