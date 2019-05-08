@@ -311,6 +311,8 @@ github：[github](https://github.com/dunizb)
 24、vue表格组件vue-easytable：[vue-easytable](http://doc.huangsw.com/vue-easytable/app.html#/start)
 
 25、Vue 开源项目库汇总：[Vue 开源项目库汇总](https://mp.weixin.qq.com/s/mK5bolwSu9gnTwkCLauZhQ)
+
+26、gitbook入口：[gitbook入口](https://www.gitbook.com/)
 # 百度网盘资料
 Java入门进阶实战视频教程（共16套）	[云盘地址](http://pan.baidu.com/s/1hs3amgs)     密码：rt6q
 
