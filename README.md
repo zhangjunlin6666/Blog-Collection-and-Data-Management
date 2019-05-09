@@ -87,7 +87,7 @@ github：[关于前端开发面试题](https://github.com/markyun/My-blog/blob/m
 github：[github](https://github.com/dunizb)
 
 ## 22、雪之梦技术驿站
-简书地址：[简书](https://www.jianshu.com/p/dc1fef317eed)
+简书地址：[关于新版gitbook用法介绍](https://www.jianshu.com/p/dc1fef317eed)
 
 gitbook：[gitbook](https://snowdreams1006.gitbook.io/index/xue-xi-bi-ji/write)
 # 资料收藏
