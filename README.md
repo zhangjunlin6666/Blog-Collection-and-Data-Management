@@ -385,3 +385,10 @@ Mysql入门及进阶视频学习资料实战教程（共11套）	[云盘地址](
 WEB全栈公开课 [云盘地址](https://pan.baidu.com/s/1UdtfzNK3ZN7cDobROHd7Uw) 密码：oil4
 
 Web全栈试听课关于vue源码解读 [云盘地址](https://pan.baidu.com/s/1zgrKbRDAi0_E4N_8YshTHA)  密码：7568
+
+# 程序员接私活网站
+1、程序猿客栈：[程序猿客栈](https://www.proginn.com/)
+2、码市：[码市](https://codemart.com/)
+3、人人开发：[人人开发](http://www.rrkf.com/)
+4、开源众包：[开源众包](https://zb.oschina.net/)
+5、开发邦：[开发邦](https://www.kaifabang.com/)
