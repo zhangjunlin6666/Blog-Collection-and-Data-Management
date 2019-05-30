@@ -90,6 +90,9 @@ github：[github](https://github.com/dunizb)
 简书地址：[关于新版gitbook用法介绍](https://www.jianshu.com/p/dc1fef317eed)
 
 gitbook：[gitbook](https://snowdreams1006.gitbook.io/index/xue-xi-bi-ji/write)
+
+## 23、开课吧大圣老师
+github：[github](https://github.com/shengxinjing)
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
