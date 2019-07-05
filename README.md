@@ -97,6 +97,9 @@ github：[github](https://github.com/shengxinjing)
 
 ## 24、造轮子以及JavaScript深入学习
 github:[github](https://github.com/mqyqingfeng)
+
+## 25、trending GitHub最新技术
+[trending](https://github.com/trending)
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
