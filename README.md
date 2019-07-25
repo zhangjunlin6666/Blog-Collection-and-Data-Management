@@ -100,6 +100,9 @@ github:[github](https://github.com/mqyqingfeng)
 
 ## 25、trending GitHub最新技术
 [trending](https://github.com/trending)
+
+## 26、印记中文翻译
+[印记中文](https://docschina.org/)
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
