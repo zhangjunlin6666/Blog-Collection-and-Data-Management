@@ -95,6 +95,7 @@ gitbook：[gitbook](https://snowdreams1006.gitbook.io/index/xue-xi-bi-ji/write)
 github：[github](https://github.com/shengxinjing)
 [vdom b站视频](https://b23.tv/av62275969/p1)
 [vdom视频网盘](https://pan.baidu.com/s/1FDCK9x4UrcnoR_Lanw5cmg) 提取码:3o39  
+[开课吧相关仓库](https://github.com/57code)
 
 
 
