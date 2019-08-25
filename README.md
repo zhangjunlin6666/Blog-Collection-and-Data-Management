@@ -109,6 +109,12 @@ github:[github](https://github.com/mqyqingfeng)
 
 ## 28、关于计算机基础（数据结构、算法）
 [计算机基础](https://github.com/ConardLi/awesome-coding-js)
+
+## 29、vue-koa项目
+[vue-koa](https://molunerfinn.com/Vue+Koa/#API-Test)
+
+## 30、电子书以及技术博客
+[电子书](https://juejin.im/post/5c0098f66fb9a049dd80019e)
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
