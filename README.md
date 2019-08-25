@@ -419,6 +419,8 @@ WEB全栈公开课 [云盘地址](https://pan.baidu.com/s/1UdtfzNK3ZN7cDobROHd7U
 
 Web全栈试听课关于vue源码解读 [云盘地址](https://pan.baidu.com/s/1zgrKbRDAi0_E4N_8YshTHA)  密码：7568
 
+开课吧11期资料 [云盘地址](https://pan.baidu.com/s/1k6H7MY69GFihbGtBMMUBqw) 密码：7i7m
+
 # 程序员接私活网站
 1、程序猿客栈：[程序猿客栈](https://www.proginn.com/)
 
