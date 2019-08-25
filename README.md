@@ -91,11 +91,12 @@ github：[github](https://github.com/dunizb)
 
 gitbook：[gitbook](https://snowdreams1006.gitbook.io/index/xue-xi-bi-ji/write)
 
-## 23、开课吧大圣老师
-github：[github](https://github.com/shengxinjing)
+## 23、开课吧相关github
+github：[大圣](https://github.com/shengxinjing)
 [vdom b站视频](https://b23.tv/av62275969/p1)
 [vdom视频网盘](https://pan.baidu.com/s/1FDCK9x4UrcnoR_Lanw5cmg) 提取码:3o39  
 [开课吧相关仓库](https://github.com/57code)
+[夏老师博客](https://www.josephxia.com)
 
 
 
@@ -113,6 +114,7 @@ github:[github](https://github.com/mqyqingfeng)
 
 ## 28、关于计算机基础（数据结构、算法）
 [计算机基础](https://github.com/ConardLi/awesome-coding-js)
+[博客地址](https://muyiy.cn)
 
 ## 29、vue-koa项目
 [vue-koa](https://molunerfinn.com/Vue+Koa/#API-Test)
