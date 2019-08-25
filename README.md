@@ -15,6 +15,8 @@ github地址：[github](https://github.com/PanJiaChen)
 
 sagmentfault：[sagmentfault](https://segmentfault.com/u/panjiachen)
 
+[webpack用法讲解](https://github.com/wallstreetcn/webpack-and-spa-guide)
+
 ## 3、塞冷思
 github地址：[github](https://github.com/sailengsi)
 
