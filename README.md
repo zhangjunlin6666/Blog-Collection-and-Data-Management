@@ -93,6 +93,7 @@ gitbook：[gitbook](https://snowdreams1006.gitbook.io/index/xue-xi-bi-ji/write)
 
 ## 23、开课吧大圣老师
 github：[github](https://github.com/shengxinjing)
+[vdom b站视频](https://b23.tv/av62275969/p1)
 
 
 ## 24、造轮子以及JavaScript深入学习
