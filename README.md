@@ -97,7 +97,7 @@ github：[大圣](https://github.com/shengxinjing)
 [vdom视频网盘](https://pan.baidu.com/s/1FDCK9x4UrcnoR_Lanw5cmg) 提取码:3o39  
 [开课吧相关仓库](https://github.com/57code)
 [夏老师博客](https://www.josephxia.com)
-
+[夏老师github](https://github.com/su37josephxia)
 
 
 ## 24、造轮子以及JavaScript深入学习
