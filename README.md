@@ -103,6 +103,12 @@ github:[github](https://github.com/mqyqingfeng)
 
 ## 26、印记中文翻译
 [印记中文](https://docschina.org/)
+
+## 27、关于面试总结
+[面试](https://github.com/xiaomuzhu/front-end-interview)
+
+## 28、关于计算机基础（数据结构、算法）
+[计算机基础](https://github.com/ConardLi/awesome-coding-js)
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
