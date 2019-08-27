@@ -135,6 +135,11 @@ github:[github](https://github.com/mqyqingfeng)
 ## 32、前端资料
 [github](https://github.com/mgbq/front-end-Doc)
 
+## 33、木易杨关于大厂面试和js基础
+[github](https://github.com/yygmind/blog)
+[简书](https://www.jianshu.com/p/f871c4c0663d)
+[博客](https://muyiy.cn/)
+
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
