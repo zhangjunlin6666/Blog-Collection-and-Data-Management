@@ -140,6 +140,9 @@ github:[github](https://github.com/mqyqingfeng)
 [简书](https://www.jianshu.com/p/f871c4c0663d)
 [博客](https://muyiy.cn/)
 
+## 34、vue源码解读
+[vue源码](https://github.com/muwoo/blogs/blob/master/src/Vue/2.md)
+
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
