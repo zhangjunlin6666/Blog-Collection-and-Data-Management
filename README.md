@@ -143,6 +143,8 @@ github:[github](https://github.com/mqyqingfeng)
 ## 34、vue源码解读
 [vue源码](https://github.com/muwoo/blogs/blob/master/src/Vue/2.md)
 
+## 35、桌面系统electron
+[electron教程](https://newsn.net/category/electron/)
 # 资料收藏
 1、面包屑：[面包屑](https://zhuanlan.zhihu.com/p/23576888)
 
